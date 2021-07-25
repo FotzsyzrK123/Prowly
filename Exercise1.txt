@@ -17,7 +17,7 @@ Steps: | Action 											    |	Expected Results	| Actual Results
 
 
 
-TC1002 - Searching word "Prowly" via Google.com
+TC1002 - Searching word "Prowly" via Google.com (voice searching, videos)
 Environment:
 	Browser: Google Chrome v. 92.0.4515.107 (64 bit)
 	Operating System: Windows
@@ -39,7 +39,7 @@ Steps: | Action 											    |	Expected Results	| Actual Results
 																						  press releases.
 
 
-TC1003 - Searching word "Prowly" via Google.com
+TC1003 - Searching word "Prowly" via Google.com (voice searching, news)
 Environment:
 	Browser: Google Chrome v. 92.0.4515.107 (64 bit)
 	Operating System: Windows
