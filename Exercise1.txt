@@ -1,0 +1,39 @@
+TC1001 - Searching word "Prowly" via Google.com
+Environment:
+	Browser: Google Chrome v. 92.0.4515.107 (64 bit)
+	Operating System: Windows
+Preconditions:
+- user has internet connection
+- user has Browser tab opened on the Google page
+
+Steps: | Action 											    |	Expected Results	| Actual Results
+1.     | User types "Prowly" in the search box and press Enter	|		  -				| User sees the results in Google. User 
+																|						  can see Brief information about the company
+																|						  in the right corner.
+																|						  User can see ad redirecting him to the page
+																|						  he wants to see.
+2.     | User click on add									    |		  -				| User is redirected to the main page
+																						  (prowly.com)
+
+
+
+TC1002 - Searching word "Prowly" via Google.com
+Environment:
+	Browser: Google Chrome v. 92.0.4515.107 (64 bit)
+	Operating System: Windows
+Preconditions:
+- user has internet connection
+- user has Browser tab opened on the Google page
+- user has properly installed and working sound drivers
+
+Steps: | Action 											    |	Expected Results	| Actual Results
+1.	   | User click on the microphone on the right from 		|		  	-			| User can see a pop-up on the top left corner of the site
+		 search bo												|						| asking for access to the microphone and press "Allow".
+2.     | User says "Prowly" to the microphone					|		    -			| User sees the results in Google. User 
+																|						| can see Brief information about the company
+																|						| in the right corner.
+																|						| 
+3.     | User wants to see videos about Prowly, so he click on	|		    -			| User is redirected to the Google results
+		 on the subpage "Video"															  subpage, containing only videos
+4.	   | User click on the firt video		 					|			-			| User is redirected to the video about creating
+																						  press releases.
