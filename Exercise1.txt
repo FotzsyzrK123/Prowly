@@ -37,3 +37,25 @@ Steps: | Action 											    |	Expected Results	| Actual Results
 		 on the subpage "Video"															  subpage, containing only videos
 4.	   | User click on the firt video		 					|			-			| User is redirected to the video about creating
 																						  press releases.
+
+
+TC1003 - Searching word "Prowly" via Google.com
+Environment:
+	Browser: Google Chrome v. 92.0.4515.107 (64 bit)
+	Operating System: Windows
+Preconditions:
+- user has internet connection
+- user has Browser tab opened on the Google page
+- user has properly installed and working sound drivers
+
+Steps: | Action 											    |	Expected Results	| Actual Results
+1.	   | User click on the microphone on the right from 		|		  	-			| User can see a pop-up on the top left corner of the site
+		 search bo												|						| asking for access to the microphone and press "Allow".
+2.     | User says "Prowly" to the microphone					|		    -			| User sees the results in Google. User 
+																|						| can see Brief information about the company
+																|						| in the right corner.
+																|						| 
+3.     | User wants to see news about Prowly, so he click on	|		    -			| User is redirected to the Google results
+		 on the subpage "News"															  subpage, containing only news about Prowly
+4.	   | User click on the second news		 					|			-			| User is redirected to the article about Prowly
+																						  being took over by SEMrush
