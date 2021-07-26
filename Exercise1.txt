@@ -6,15 +6,14 @@ Preconditions:
 - user has internet connection
 - user has Browser tab opened on the Google page
 
-Steps: | Action 											    |	Expected Results	| Actual Results
-1.     | User types "Prowly" in the search box and press Enter	|		  -				| User sees the results in Google. User 
-																|						  can see Brief information about the company
-																|						  in the right corner.
-																|						  User can see ad redirecting him to the page
-																|						  he wants to see.
-2.     | User click on add									    |		  -				| User is redirected to the main page
-																						  (prowly.com)
+Step 1:
+Action: User types "Prowly" in the search box and press Enter
+Result: User sees the results in Google. User can see brief information about the company in the right corner
+User can see also on the top of the results list an ad redirecting him to the page he wants to see.
 
+Step 2:
+Action: User Click on the add
+Result: User is redirected to the main page (prowly.com)
 
 
 TC1002 - Searching word "Prowly" via Google.com (voice searching, videos)
@@ -26,17 +25,21 @@ Preconditions:
 - user has Browser tab opened on the Google page
 - user has properly installed and working sound drivers
 
-Steps: | Action 											    |	Expected Results	| Actual Results
-1.	   | User click on the microphone on the right from 		|		  	-			| User can see a pop-up on the top left corner of the site
-		 search bo												|						| asking for access to the microphone and press "Allow".
-2.     | User says "Prowly" to the microphone					|		    -			| User sees the results in Google. User 
-																|						| can see Brief information about the company
-																|						| in the right corner.
-																|						| 
-3.     | User wants to see videos about Prowly, so he click on	|		    -			| User is redirected to the Google results
-		 on the subpage "Video"															  subpage, containing only videos
-4.	   | User click on the firt video		 					|			-			| User is redirected to the video about creating
-																						  press releases.
+Step 1:
+Action: User click on the microphone on the right from the search box
+Result: User can see a pop-up on the top left corner of the site asking for access to the microphone and press "Allow".
+		
+Step 2:
+Action: User says "Prowly" to the microphone.
+Result:	User sees the results in Google. User can see Brief information about the company in the right corner.
+
+Step 3:
+Action: User wants to see video about Prowly, so he click on the subgpage "Video"
+Result: User is redirected to the Google results subgpage, containing only videos.
+
+Step 4: 
+Action: User clicks on the first video.
+Result: User is redirected to the video about creating press releases
 
 
 TC1003 - Searching word "Prowly" via Google.com (voice searching, news)
@@ -48,14 +51,20 @@ Preconditions:
 - user has Browser tab opened on the Google page
 - user has properly installed and working sound drivers
 
-Steps: | Action 											    |	Expected Results	| Actual Results
-1.	   | User click on the microphone on the right from 		|		  	-			| User can see a pop-up on the top left corner of the site
-		 search bo												|						| asking for access to the microphone and press "Allow".
-2.     | User says "Prowly" to the microphone					|		    -			| User sees the results in Google. User 
-																|						| can see Brief information about the company
-																|						| in the right corner.
-																|						| 
-3.     | User wants to see news about Prowly, so he click on	|		    -			| User is redirected to the Google results
-		 on the subpage "News"															  subpage, containing only news about Prowly
-4.	   | User click on the second news		 					|			-			| User is redirected to the article about Prowly
-																						  being took over by SEMrush
+Step 1:
+Action: User click on the microphone on the right from the search box
+Result: User can see a pop-up on the top left corner of the site asking for access to the microphone and press "Allow".
+
+Step 2:
+Action: User says "Prowly" to the microphone.
+Result:	User sees the results in Google. User can see Brief information about the company in the right corner.
+
+Step 3:
+Action: User wants to see news about Prowly, so he click on the subpage "News"
+Result: User is redirected to the Google results subpage, containing only news about Prowly
+
+Step 4:
+Action: User click on the second news
+Result: User is redirected to the article about Prowly  being took over by SEMrush
+
+
